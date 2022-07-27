@@ -15,7 +15,7 @@ title: Reasearch
 
 5. Stage de Master 2, Institut de Mathématiques de Bordeaux. 
 
-- Sous la direction de: Jéréemie BIGOT, Edoardo PROVENZI. Travail réalisé: Y. Jiang, J. Bigot, E. Provenzi. Commutativity of spatiochromatic covariance matrices in natural image statistics. *Mathematics in Engineering*. 2020, 2(2): 313-339.
+- Sous la direction de: Jérémie Bigot, Edoardo Provenzi. Travail réalisé: Y. Jiang, J. Bigot, E. Provenzi. Commutativity of spatiochromatic covariance matrices in natural image statistics. *Mathematics in Engineering*. 2020, 2(2): 313-339.
 
 ## Reports
 
