@@ -1,3 +1,3 @@
 # yiyej.github.io
 
-Solid person vibe Home page created with Jekyll (recomended :)). 
+Solid person vibe Home page. I created it with Jekyll (recomended :)). 
