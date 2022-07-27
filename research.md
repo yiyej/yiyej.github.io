@@ -5,7 +5,7 @@ title: Reasearch
 
 ## Research papers
 
-1. Y. Jiang, J. Bigot & S. Maabout. Wasserstein Multivariate Autoregressive Models and its application in graph learning from distributional time series. arXiv preprint arXiv: 2207.05442.
+1. Y. Jiang. Wasserstein Multivariate Autoregressive Models and its application in graph learning from distributional time series. arXiv preprint arXiv: 2207.05442.
 
 2. Y. Jiang, G Vergara-Hermosilla. Machine learning-based modelling and forecasting of covid-19 under the temporally varying public intervention in the Chilean context. Hal: hal-03680677. Soumis à *Epidemiologic Methods*.
 
