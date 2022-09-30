@@ -12,6 +12,8 @@ title: Teaching
 - Encadrement de projets ainsi que soutenances dans l'UE Données Massives M2
 
 
-**November 2020 - March 2021:** Suivi de stagiaire de Master 2 de Mathématiqes Appliqées et Statistiqes (avec encadrant principal: Jérémie Bigot), Université de Bordeaux:
-Réunions visios hebdomadaires ainsi que les différents échanges par mails.
+**November 2020 - March 2021:** 
+Supervision of the research internship of a Master 2 student in Applied Mathematics and Statistics (with main supervisor: Jérémie Bigot), University of Bordeaux: 
+Weekly video meetings as well as the various exchanges by email.
+
 
