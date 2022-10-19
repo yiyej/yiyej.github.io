@@ -3,18 +3,18 @@ layout: default
 title: Teaching
 ---
 
-**September 2022 - present:** ATER à l’Université de Bordeaux, UF Mathématiques et Interactions.
+**September 2022 - present:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
 
 - Chargé de TD en Outils Mathématiques L1
 
 
-**February 2022 - July 2022:** ATER à l’Université de Bordeaux, UF Mathématiques et Interactions.
+**February 2022 - July 2022:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
 
 - Chargé de TD en Algèbre linéaire L1
 
 - Chargé de TP en Statistique nonparamétrique M1
 
-- Encadrement de projets ainsi que soutenances dans l'UE Données Massives M2
+- Supervision of projects and defenses in the teaching unit (UE) big data M2
 
 
 **November 2020 - March 2021:** 
