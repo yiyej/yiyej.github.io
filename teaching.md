@@ -14,7 +14,7 @@ title: Teaching
 
 - Chargé de TP en Statistique nonparamétrique M1
 
-- Supervision of projects and defenses in the teaching unit (UE) big data M2
+- Supervision of projects and defenses in the teaching unit (UE) Big Data M2
 
 
 **November 2020 - March 2021:** 
