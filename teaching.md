@@ -5,6 +5,8 @@ title: Teaching
 
 **September 2022 - present:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
 
+- Chargé de TD en Fonctions de plusieurs variables L2
+
 - Chargé de TD en Outils Mathématiques L1
 
 
