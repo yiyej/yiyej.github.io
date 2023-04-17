@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Research
-  link: /research.md
+  link: /research.html
 - name: Teaching
-  link: /teaching.md
+  link: /teaching.html
 - name: CV
   link: /assets/cv.pdf
