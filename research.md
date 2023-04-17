@@ -17,4 +17,4 @@ title: Reasearch
 
 ## Reports
 
-F. Coppini, Y. Jiang, S. Tabti. Predictive models on 1D signals in a small-data environment. Hal: hal-03211100. 2020. This report is the result of work during the Semaine d'\'Etudes Math\'ematiques et Entreprises, where $4$ teams of PhD students were dedicated to solve the problems proposed by the partner companies.
+F. Coppini, Y. Jiang, S. Tabti. Predictive models on 1D signals in a small-data environment. Hal: hal-03211100. 2020. This report is the result of work during the Semaine d'\'Etudes Math\'ematiques et Entreprises, where 4 teams of PhD students were dedicated to solve the problems proposed by the partner companies.
