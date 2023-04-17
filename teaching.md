@@ -16,7 +16,11 @@ title: Teaching
 
 - Chargé de TP en Statistique nonparamétrique M1
 
-- Supervision of project *Algorithmes stochastiques pour la régression logistique* and defenses in the teaching unit (UE) Données Massives M2
+- Supervision of project *Algorithmes stochastiques pour la régression logistique* and jury in the teaching unit Données Massives M2
+
+<a href="/assets/projet-AlgoSto/projet-AlgoSto_10012022">TP1</a>
+<a href="/assets/projet-AlgoSto/projet-AlgoSto_12012022">TP2</a>
+<a href="/assets/projet-AlgoSto/projet-AlgoSto_17012022">TP3</a>
 
 
 **November 2020 - March 2021:** 
