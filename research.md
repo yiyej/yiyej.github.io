@@ -15,6 +15,10 @@ title: Reasearch
 
 5. Y. Jiang, J. Bigot, E. Provenzi. Commutativity of spatiochromatic covariance matrices in natural image statistics. *Mathematics in Engineering*. 2020, 2(2): 313-339. The work is conducted in the context of the Master 2 internship at Institut de Mathématiques de Bordeaux.
 
+## PhD Thesis
+
+<a href="https://theses.hal.science/tel-04062432/">Statistical analysis of spatio-temporal and multi-dimensional data from a network of sensors</a>
+
 ## Reports
 
 F. Coppini, Y. Jiang, S. Tabti. Predictive models on 1D signals in a small-data environment. Hal: hal-03211100. 2020. This report is the result of work during the Semaine d'\'Etudes Math\'ematiques et Entreprises, where 4 teams of PhD students were dedicated to solve the problems proposed by the partner companies.
