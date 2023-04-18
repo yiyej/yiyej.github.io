@@ -14,7 +14,12 @@ title: Teaching
 
 - Chargé de TD en Algèbre linéaire L1
 
-- Chargé de TP en Statistique nonparamétrique M1
+- Chargé de TP en Statistiques nonparamétriques M1
+<ul>
+<a href="/assets/stat_nonparam/TP1.pdf">TP1.pdf</a> (<a href="/assets/stat_nonparam/TP1_corrigé.pdf">Corrigé</a>)
+<a href="/assets/stat_nonparam/TP2.pdf">TP2.pdf</a>, <a href="/assets/stat_nonparam/TP2_code.R">TP2_code.R</a> (<a href="/assets/stat_nonparam/TP2_corrigé.pdf">Corrigé</a>)
+<a href="/assets/stat_nonparam/TP3.pdf">TP3.pdf</a>, <a href="/assets/stat_nonparam/TP3_code.R">TP3_code.R</a>  (<a href="/assets/stat_nonparam/TP3_corrigé.pdf">Corrigé</a>)
+</ul>
 
 - Supervision of project *Algorithmes stochastiques pour la régression logistique* and jury in the teaching unit Données Massives M2
 <ul>
