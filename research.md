@@ -17,7 +17,7 @@ title: Reasearch
 
 ## PhD Thesis
 
-<a href="https://theses.hal.science/tel-04062432/">Statistical analysis of spatio-temporal and multi-dimensional data from a network of sensors.</a>
+<a href="https://theses.hal.science/tel-04062432/">Statistical analysis of spatio-temporal and multi-dimensional data from a network of sensors.</a> <a href="/assets/defense.pdf"> (Defense slides) </a>
 
 ## Reports
 
