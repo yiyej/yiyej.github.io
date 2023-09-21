@@ -13,12 +13,13 @@ title: Reasearch
 
 4. Y. Jiang, J. Bigot, E. Provenzi. Commutativity of spatiochromatic covariance matrices in natural image statistics. *Mathematics in Engineering*. 2020, 2(2): 313-339. The work is conducted in the context of the Master 2 internship at Institut de Mathématiques de Bordeaux.
 
-5. Y. Jiang, G Vergara-Hermosilla. Machine learning-based modelling and forecasting of covid-19 under the temporally varying public intervention in the Chilean context. Hal: hal-03680677. 2022. 
 
 ## PhD Thesis
 
 <a href="https://theses.hal.science/tel-04062432/">Statistical analysis of spatio-temporal and multi-dimensional data from a network of sensors.</a> <a href="/assets/defense.pdf"> (Defense slides) </a>
 
 ## Reports
+
+Y. Jiang, G Vergara-Hermosilla. Machine learning-based modelling and forecasting of covid-19 under the temporally varying public intervention in the Chilean context. Hal: hal-03680677. 2022. 
 
 F. Coppini, Y. Jiang, S. Tabti. Predictive models on 1D signals in a small-data environment. Hal: hal-03211100. 2020. This report is the result of work during the Semaine d'\'Etudes Math\'ematiques et Entreprises, where 4 teams of PhD students were dedicated to solve the problems proposed by the partner companies.
