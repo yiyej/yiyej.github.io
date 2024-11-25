@@ -5,9 +5,9 @@ title: Reasearch
 
 ## Research papers
 
-1. Y. Jiang. Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series. arXiv preprint arXiv: 2207.05442. 2022.
+1. Y. Jiang, J. Bigot. Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series. arXiv preprint arXiv: 2207.05442. 2022, submitted to JASA.
 
-2. Y. Jiang, J. Bigot & S. Maabout. Online graph topology learning from matrix-valued time series. arXiv preprint arXiv:2107.08020. 2021.
+2. Y. Jiang, J. Bigot & S. Maabout. Online graph topology learning from matrix-valued time series. *Computational Statistics & Data Analysis*, 2025, 202, 108065.
 
 3. Y. Jiang, J. Bigot & S. Maabout. Sensor selection on graphs via data-driven node sub-sampling in network time series.  arXiv preprint arXiv:2004.11815. 2020.
 
