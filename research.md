@@ -19,6 +19,9 @@ title: Reasearch
 
 <a href="https://theses.hal.science/tel-04062432/">Statistical analysis of spatio-temporal and multi-dimensional data from a network of sensors.</a> <a href="/assets/defense.pdf"> (Defense slides) </a>
 
+## Service
+Reviewer for *Biometrika*, *Biometrics*.
+
 ## Reports
 
 Y. Jiang, G Vergara-Hermosilla. Machine learning-based modelling and forecasting of covid-19 under the temporally varying public intervention in the Chilean context. Hal: hal-03680677. 2022. 
