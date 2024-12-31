@@ -10,6 +10,8 @@ title: Reasearch
 
 - Y. Jiang, J. Bigot & S. Maabout. Online graph topology learning from matrix-valued time series. *Computational Statistics & Data Analysis*, 2025, 202, 108065.
 
+- Y. Jiang, G. Vergara-Hermosilla. <a href="https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2024.12.176">Extended SIRU model with dynamic transmission rate and its application in the forecasting of COVID-19 under temporally varying public intervention.</a> *Biomath* 13 (2024), 2412176.
+
 - Y. Jiang, J. Bigot & S. Maabout. Sensor selection on graphs via data-driven node sub-sampling in network time series.  arXiv preprint arXiv:2004.11815. 2020.
 
 - Y. Jiang, J. Bigot, E. Provenzi. Commutativity of spatiochromatic covariance matrices in natural image statistics. *Mathematics in Engineering*. 2020, 2(2): 313-339. The work is conducted in the context of the Master 2 internship at Institut de Mathématiques de Bordeaux.
@@ -23,7 +25,5 @@ title: Reasearch
 Reviewer for *Biometrika*, *Biometrics*.
 
 ## Reports
-
-Y. Jiang, G Vergara-Hermosilla. Machine learning-based modelling and forecasting of covid-19 under the temporally varying public intervention in the Chilean context. Hal: hal-03680677. 2022. 
 
 F. Coppini, Y. Jiang, S. Tabti. Predictive models on 1D signals in a small-data environment. Hal: hal-03211100. 2020. This report is the result of work during the Semaine d'\'Etudes Math\'ematiques et Entreprises, where 4 teams of PhD students were dedicated to solve the problems proposed by the partner companies.
