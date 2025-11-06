@@ -3,7 +3,12 @@ layout: default
 title: Teaching
 ---
 
-**September 2022 - present:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
+**October 2025 - November 2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
+
+- Chargé de TP en Stiatisque inférentielle M1 
+ 
+
+**September 2022 - June 2023:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
 
 - Chargée de TD en Fonctions de plusieurs variables L2
 
