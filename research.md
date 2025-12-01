@@ -6,7 +6,7 @@ title: Reasearch
 ## Research papers
 - A Bayesian approach for estimating brain functional connectivity networks in resting-state fMRI data (in preparation), joint work with Alice Chevaux (phd student at UGA, France), Julyan Arbel (Associate researcher at Inria Grenoble, France), Guillaume Kon Kam King (Senior researcher at Inrae, France), Wendy Meiring (Professor at UC Santa Barbara, US), Alex Petersen (Associate professor at BYU, US), Sophie Achard (Senior researcher CNRS, France).
   
-- Y.Jiang. New sampling approaches for Shrinkage Inverse-Wishart distribution. arXiv:2511.03044. *Submitted to Statistics and computing*.
+- Y. Jiang. New sampling approaches for Shrinkage Inverse-Wishart distribution. arXiv:2511.03044. *Submitted to Statistics and computing*.
 
 - Y. Jiang, J. Bigot. Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series. *in revision, Journal of Time Series Analysis*.
 
