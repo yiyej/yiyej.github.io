@@ -8,7 +8,7 @@ title: Reasearch
   
 - Y. Jiang. New sampling approaches for Shrinkage Inverse-Wishart distribution. arXiv:2511.03044. *Submitted to Statistics and computing*.
 
-- Y. Jiang, J. Bigot. Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series. *in revision, Journal of Time Series Analysis*.
+- Y. Jiang, J. Bigot. Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series. *To appear, Journal of Time Series Analysis*.
 
 - Y. Jiang, J. Bigot & S. Maabout. Online graph topology learning from matrix-valued time series. *Computational Statistics & Data Analysis*, 2025, 202, 108065.
 
