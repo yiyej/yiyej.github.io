@@ -4,7 +4,7 @@ title: Reasearch
 ---
 
 ## Ongoing works
-- Sparsity inference of entries of covariance matrix with a new shrinkage prior.
+- Sparsity inference in covariance matrix with a new shrinkage prior.
   
   *Inference of a covariance matrix with sparsity has lots of applications in real data: **brain connectivity, portofolio allocation**. However, to our best knowledge, there has not been a prior distribution supported on covariance matrices (thus PD matrices), which is theoretical rigorous and allows full Bayesian inference, can be used to infer the sparsity in the entries of convariance matrix. In this work, we aim to extend the popular shrinkage prior Horseshoe supported on real line to a prior supported on covariance matrices, which has shrinkage effects on the entries of a covariance matrix.*
   
