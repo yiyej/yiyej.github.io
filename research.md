@@ -5,9 +5,11 @@ title: Reasearch
 
 ## Ongoing works
 - Sparsity inference of entries of covariance matrix with a new shrinkage prior.
+  
   *Inference of a covariance matrix with sparsity has lots of applications in real data: **brain connectivity, portofolio allocation**. However, to our best knowledge, there has not been a prior distribution supported on covariance matrices (thus PD matrices), which is theoretical rigorous and allows full Bayesian inference, can be used to infer the sparsity in the entries of convariance matrix. In this work, we aim to extend the popular shrinkage prior Horseshoe supported on real line to a prior supported on covariance matrices, which has shrinkage effects on the entries of a covariance matrix.*
   
 - A Bayesian approach for estimating brain functional connectivity networks in resting-state fMRI data (in preparation).
+  
    Joint project with Alice Chevaux (phd student at UGA, France), Julyan Arbel (Associate researcher at Inria Grenoble, France), Guillaume Kon Kam King (Senior researcher at Inrae, France), Wendy Meiring (Professor at UC Santa Barbara, US), Alex Petersen (Associate professor at BYU, US), Sophie Achard (Senior researcher CNRS, France).
 
 - Y. Jiang. New sampling approaches for Shrinkage Inverse-Wishart distribution. arXiv:2511.03044. *In revision, Statistics and computing*.
