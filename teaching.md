@@ -5,7 +5,7 @@ title: Teaching
 
 **October 2025 - November 2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
 
-- Chargé de TP en <a href="https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-applications-IAQKA8QE/parcours-statistique-et-sciences-des-donnees-ssd-IB9H3QIQ/ue-statistique-inferentielle-IGNQW5M0.html">Stiatisque inférentielle M1</a>  
+- Chargé de TP en <a href="https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-applications-IAQKA8QE/parcours-statistique-et-sciences-des-donnees-ssd-IB9H3QIQ/ue-statistique-inferentielle-IGNQW5M0.html">Statistique inférentielle M1</a>  
  
 
 **September 2022 - June 2023:** Temporary teaching-research position (ATER) at l’Université de Bordeaux, UF Mathématiques et Interactions.
