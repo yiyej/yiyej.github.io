@@ -19,7 +19,7 @@ title: Reasearch
 
 - Y. Jiang, J. Bigot. <a href="https://doi.org/10.1111/jtsa.70045"> Wasserstein multivariate autoregressive models and its application in graph learning from distributional time series.</a> *Journal of Time Series Analysis*. 2026; 0:1–20. 
 
-- Y. Jiang, J. Bigot & S. Maabout. Online graph topology learning from matrix-valued time series. *Computational Statistics & Data Analysis*, 2025, 202, 108065.
+- Y. Jiang, J. Bigot & S. Maabout. <a href="https://www.sciencedirect.com/science/article/pii/S016794732400149X"> Online graph topology learning from matrix-valued time series.</a> *Computational Statistics & Data Analysis*, 2025, 202, 108065.
 
 - Y. Jiang, G. Vergara-Hermosilla. <a href="https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2024.12.176">Extended SIRU model with dynamic transmission rate and its application in the forecasting of COVID-19 under temporally varying public intervention.</a> *Biomath* 13 (2024), 2412176.
 
