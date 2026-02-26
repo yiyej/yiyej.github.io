@@ -21,14 +21,14 @@ title: Teaching
 
 - Chargée de TD en Algèbre linéaire L1
 
-- Chargée de TP en Statistiques nonparamétriques M1
+- Chargée de TP en Statistiques nonparamétriques M1, Mathématiques Appliquées et Statistique
 <ul>
 <a href="/assets/stat_nonparam/TP1.pdf">TP1.pdf</a> (<a href="/assets/stat_nonparam/TP1_corrigé.pdf">Corrigé</a>),
 <a href="/assets/stat_nonparam/TP2.pdf">TP2.pdf</a> <a href="/assets/stat_nonparam/TP2_code.R">TP2code.R</a> (<a href="/assets/stat_nonparam/TP2_corrigé.pdf">Corrigé</a>),
 <a href="/assets/stat_nonparam/TP3.pdf">TP3.pdf</a> <a href="/assets/stat_nonparam/TP3_code.R">TP3code.R</a>  (<a href="/assets/stat_nonparam/TP3_corrigé.pdf">Corrigé</a>)
 </ul>
 
-- Supervision of project *Algorithmes stochastiques pour la régression logistique* and jury in the teaching unit Données Massives M2
+- Supervision of project *Algorithmes stochastiques pour la régression logistique* and jury in the teaching unit Données Massives M2, Mathématiques Appliquées et Statistique
 <ul>
 <a href="/assets/projet-AlgoSto/projet-AlgoSto-RegLogistique_10012022.ipynb">TP1</a>
 <a href="/assets/projet-AlgoSto/projet-AlgoSto_12012022.zip">TP2</a>
