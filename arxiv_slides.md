@@ -5,7 +5,7 @@ title: Arxiv slides
 
 2025
 
-- Inria Grenoble non permanent talk (<a href="/assets/slides/inrianonperm.pdf">Sampling a complicated distribution:
+- Inria Grenoble non permanent talk (<a href="/assets/slides/inrianonperm.pdf">Sampling algorithms:
 from tossing a coin to a matrix-valued case</a>)
 
 - Seminar MIPA (<a href="/assets/slides/homotopy.pdf">Homotopy algorithm for structured matrix-variate Lasso and its application in online graph inference from matrix-variate time series</a>)
