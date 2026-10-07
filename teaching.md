@@ -6,7 +6,7 @@ title: Teaching
 **2025:** l’Université de Rennes, Master 1 l'info Crypto, M1 CSM et SNS.
 - Outils en probabilités et statistique pour l’ingénierie mathématique et l’intelligence artificielle
   
-  <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>, Feuille TD1
+  <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>, <a href="/assets/rennes/2627/ops/td1.pdf">Feuille TD1</a>
 
 
 **2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
