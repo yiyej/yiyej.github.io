@@ -6,7 +6,7 @@ title: Teaching
 **2026:** l’Université de Rennes, Parcours Calcul scientifique et modélisation, Simulation numérique pour la santé, et Mathématiques de l’information, cryptographie, Master Mathématiques et Applications.
 - Outils en probabilités et statistique pour l’ingénierie mathématique et l’intelligence artificielle M1
   
-  <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>,<a href="/assets/rennes/2627/ops/ops_ch1_slides-55-65.pdf">Slides Chapitre1-2 (version sans corrigé des exemples du cours) </a>, <a href="/assets/rennes/2627/ops/td1.pdf">Feuille TD1</a>
+  <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>,<a href="/assets/rennes/2627/ops/ops_ch1_slides-56-65.pdf">Slides Chapitre1-2 (version sans corrigé des exemples du cours) </a>, <a href="/assets/rennes/2627/ops/td1.pdf">Feuille TD1</a>
 
 
 **2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
