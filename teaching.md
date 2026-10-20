@@ -8,6 +8,8 @@ title: Teaching
   
   <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>,<a href="/assets/rennes/2627/ops/ops_ch1_slides-56-65.pdf">Slides Chapitre1-2 (version sans corrigé des exemples du cours) </a>, <a href="/assets/rennes/2627/ops/td1.pdf">Feuille TD1</a>
 
+  <a href="/assets/rennes/2627/ops/ops_ch2_slides-1-47.pdf.pdf">Slides Chapitre2-1</a> 
+
 
 **2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
 
