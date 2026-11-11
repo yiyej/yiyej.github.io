@@ -8,7 +8,7 @@ title: Teaching
   
   <a href="/assets/rennes/2627/ops/ops_ch1_slides-1-55.pdf">Slides Chapitre1-1</a>,<a href="/assets/rennes/2627/ops/ops_ch1_slides-56-65.pdf">Slides Chapitre1-2 (version sans corrigé des exemples du cours) </a>, <a href="/assets/rennes/2627/ops/td1.pdf">Feuille TD1</a>
 
-  <a href="/assets/rennes/2627/ops/ops_ch2_slides-1-70.pdf">Slides Chapitre2-1/2</a>
+  <a href="/assets/rennes/2627/ops/ops_ch2_slides-1-70.pdf">Slides Chapitre2-1/2</a>, <a href="/assets/rennes/2627/ops/td2_ops_2627.pdf">Feuille TD2</a> (<a href="/assets/rennes/2627/ops/ops_ch2_slides-1-70.pdf">Slides Chapitre2-1/2</a>, <a href="/assets/rennes/2627/ops/Corrige_TD2_OPS_2026_2027.pdf">corrigé</a>)
 
   <a href="/assets/rennes/2627/ops/tp1_ops2627.pdf">TP1.pdf</a>(<a href="/assets/rennes/2627/ops/TP1_2026-2027_corrige_Jupyter.ipynb">corrigé.ipynb</a>), <a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_etudiants.ipynb">TP2.ipynb</a>(<a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_corrige.ipynb">corrigé.ipynb</a>)
 
