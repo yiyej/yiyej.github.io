@@ -12,7 +12,7 @@ title: Teaching
   
   <a href="/assets/rennes/2627/ops/ops_ch3_slides (1)-1-42.pdf">Slides Chapitre3-1</a>
 
-  <a href="/assets/rennes/2627/ops/tp1_ops2627.pdf">TP1.pdf</a>(<a href="/assets/rennes/2627/ops/TP1_2026-2027_corrige_Jupyter.ipynb">corrigé.ipynb</a>), <a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_etudiants.ipynb">TP2.ipynb</a>(<a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_corrige.ipynb">corrigé.ipynb</a>)
+  <a href="/assets/rennes/2627/ops/tp1_ops2627.pdf">TP1.pdf</a>(<a href="/assets/rennes/2627/ops/TP1_2026-2027_corrige_Jupyter.ipynb">corrigé.ipynb</a>), <a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_etudiants.ipynb">TP2.ipynb</a>(<a href="/assets/rennes/2627/ops/TP2_OPS_2026_2027_machine_corrige.ipynb">corrigé.ipynb</a>), <a href="/assets/rennes/2627/ops/TP3_OPS.ipynb">TP3.ipynb</a>
 
 
 **2025:** l’Université Grenoble Alpes, Parcours Statistique et sciences des données, Master Mathématiques et applications.
